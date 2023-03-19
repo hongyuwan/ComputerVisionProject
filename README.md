@@ -14,5 +14,8 @@
 
 
 ## Project4- Augmented-Reality with GUI, all codes are implementing in C++ with opencv, opengl.
+<img width="817" alt="截屏2023-03-19 上午11 24 46" src="https://user-images.githubusercontent.com/85655086/226198781-5c4b62dc-cde5-45e4-821c-5f0e757d301d.png">
+<img width="1015" alt="截屏2023-03-19 上午11 24 53" src="https://user-images.githubusercontent.com/85655086/226198783-5f63e11d-2d87-441c-9a0d-45ed051389b1.png">
+
 
 ## Project5- Recognition using Deep Networks with GUI, all codes are implementing in python with opencv, pytorch and tkinter .
