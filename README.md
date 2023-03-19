@@ -19,3 +19,5 @@
 
 
 ## Project5- Recognition using Deep Networks with GUI, all codes are implementing in python with opencv, pytorch and tkinter .
+<img width="394" alt="截屏2023-03-19 上午11 26 15" src="https://user-images.githubusercontent.com/85655086/226198855-d7ea73cd-f495-44e6-89f4-5aff436ace33.png">
+<img width="482" alt="截屏2023-03-19 上午11 26 20" src="https://user-images.githubusercontent.com/85655086/226198856-ce4c7d41-9678-4555-a14c-c4b5dea61475.png">
