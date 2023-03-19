@@ -9,6 +9,9 @@ Project2- Content-Based Image Retrieval with GUI, all codes are implementing in 
 
 
 Project3- Real-time_Object 2-D Recognition with GUI, all codes are implementing in C++ with opencv.
+<img width="1098" alt="截屏2023-03-19 上午11 19 18" src="https://user-images.githubusercontent.com/85655086/226198496-0331eb5f-f91d-4c44-b6c9-8842021b756a.png"><img width="805" alt="截屏2023-03-19 上午11 19 32" src="https://user-images.githubusercontent.com/85655086/226198499-5fb3da39-8d0f-42d8-bb1e-ae7074207e4c.png">
+
+
 
 Project4- Augmented-Reality with GUI , all codes are implementing in C++ with opencv, opengl.
 
